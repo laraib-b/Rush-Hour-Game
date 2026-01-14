@@ -78,12 +78,12 @@ If you are using a course‑provided Visual Studio / MASM template, simply add t
 
 - **Step 1 – Install Irvine32 using the provided ZIP**
   - Download the `Irvine.zip` package from this link:  
-    `https://github.com/syedalizain786/AssemblyConsoleApplication1/blob/master/Irvine.zip`
+    https://github.com/syedalizain786/AssemblyConsoleApplication1/blob/master/Irvine.zip
   - Extract the ZIP to a permanent folder, for example: `C:\Irvine`.
 
 - **Step 2 – Watch the Visual Studio + Irvine32 setup video**
   - Follow this YouTube tutorial to set up Visual Studio with MASM and Irvine32:  
-    **YouTube setup guide**: `https://www.youtube.com/watch?v=81UUI8kO1LE`
+    **YouTube setup guide**: https://www.youtube.com/watch?v=81UUI8kO1LE
   - After following the video, you should have:
     - A working Visual Studio project configured for MASM,
     - Include and library paths pointing to the Irvine32 files,
